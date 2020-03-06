@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "string_view": "cpp",
+        "sstream": "cpp",
+        "cstdio": "c",
+        "wfdb.h": "c",
+        "WFDB.H": "cpp",
+        "cstdlib": "cpp",
+        "string": "cpp",
+        "ecgcodes.h": "c",
+        "ecgmap.h": "c",
+        "ECGCODES.H": "cpp",
+        "ECGMAP.H": "cpp",
+        "typeinfo": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}
